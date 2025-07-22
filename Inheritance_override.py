@@ -10,7 +10,6 @@ class Hayvan():
             print("hayvan sınıfı method 2 ")
 
 
-
 benimHayvanim= Hayvan()
 benimHayvanim.method1()
 benimHayvanim.method2()
